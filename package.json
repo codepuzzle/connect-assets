@@ -6,14 +6,14 @@
   "homepage": "http://github.com/TrevorBurnham/connect-assets",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TrevorBurnham/connect-assets.git"
+    "url": "git://github.com/codepuzzle/connect-assets.git"
   },
   "engines": {
     "node": ">=0.8.0"
   },
   "main": "lib/assets.js",
   "dependencies": {
-    "connect-file-cache": "0.2.4",
+    "connect-file-cache": "git://github.com/codepuzzle/connect-file-cache.git",
     "mime": "1.2.2",
     "snockets": "1.3.8",
     "underscore": "1.1.7"
